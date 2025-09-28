@@ -1,0 +1,1 @@
+git mv GVSOCAQCMQC sources/gc/gvsocaqcm
